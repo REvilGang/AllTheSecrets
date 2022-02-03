@@ -8,7 +8,7 @@
 # I am sharing their secrets with the world
 
 # Login = m0nkey
-# Password = B4l45t0n3
+# Password = MonkeyHorseShoe
 # Further Credentials To Follow
 
 "engine": "mysql",
