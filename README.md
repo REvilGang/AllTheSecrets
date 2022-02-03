@@ -1,8 +1,16 @@
 # AllTheSecrets
 
-# alacboulder.com
-# alacboulder
-# alac boulder
+# alacboulder.com - Domain
+# www.alacboulder.com - Domain Variation
+# https://www.alacboulder.com - Domain Variation
+
+# alacboulder - Exact Text Search
+# alac boulder - Text Search Variation
+
+# C:\Windows\System32\Drivers\AlacBoulder.pdf - Filename
+# #alacboulder - Hashtag
+# @alacboulder - Username
+
 
 # I am a disgruntled employee at Alac Boulder
 # I am sharing their secrets with the world
