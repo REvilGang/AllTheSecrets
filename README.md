@@ -11,6 +11,7 @@
 # #alacboulder - Hashtag
 # @alacboulder - Username
 
+# thatcher@alacboulder.com - Email Address
 
 # I am a disgruntled employee at Alac Boulder
 # I am sharing their secrets with the world
