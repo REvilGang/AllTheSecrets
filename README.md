@@ -1,8 +1,8 @@
 # AllTheSecrets
 
 # alacboulder.com - Domain
-# www.alacboulder.com - Domain Variation
-# https://www.alacboulder.com - Domain Variation
+# www.alacboulder.com - URL
+# https://www.alacboulder.com - URL Variation
 
 # alacboulder - Exact Text Search
 # alac boulder - Text Search Variation
